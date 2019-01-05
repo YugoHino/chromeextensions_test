@@ -1,0 +1,20 @@
+/html/body/table/tbody/tr[2]/td[1]/span[9]/a[1]
+/html/body/table/tbody/tr[2]/td[1]/span[9]/a[2]
+/html/body/table/tbody/tr[2]/td[1]/span[8]/a[1]
+body > table > tbody > tr:nth-child(2) > td:nth-child(1) > span:nth-child(12) > a:nth-child(2)
+<a href="/querytool/exec?query=04_Account%2FDWH_01_Report_L1Master" class="list-group-item" style="word-break: break-all; display: none; width: 405px;">DWH_01_Report_L1Master</a
+
+
+
+//*[@id="mainForm"]/span[2]
+//*[@id="value-COUNTRY_CODE"]
+
+
+//*[@id="mainForm"]/input[5]
+
+/html/body/table/tbody/tr[2]/td[1]/span[10]/span[2]/a[2]/text()
+
+
+<b>06_SCM</b>
+
+https://chat.googleapis.com/v1/spaces/AAAABdGmEM4/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=_fZbIyY51SFbtvGLBb7ETW2AUwW6i1zE2ElvbgTY1Nw%3D
